@@ -1,3 +1,4 @@
+# Solo Project
 # Simple Blockchain in Node.js/TypeScript
 
 This project implements a minimal, educational blockchain using Node.js and TypeScript. It demonstrates fundamental blockchain concepts such as transactions, blocks, hashing, proof-of-work, digital signatures, and a basic peerless ledger.
